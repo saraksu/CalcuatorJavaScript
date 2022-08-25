@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(201, 175, 138, 0.815);
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    position: absolute;
+    height:200px;
+    margin: 15%;
+    margin-top: 250px;
+    left: 500px;
+
+}
+
+.number{
+    position: absolute;
+    width: 100%;
+    font-size: x-large;
+    
+}
+
+table{
+    background-color: palevioletred;
+    width: 13%;
+    height: 250px;
+    border-radius: 5px;
+}
+
+input{
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+    outline: none;
+    border-radius:7px;
+    border-color: pink;
+}
+button{
+    border-radius: 5px;
+    border:2px solid pink;
+    width: 80%;
+}
+.ekran1{
+    width: 96%;
+}
+
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: palevioletred;
+    position: absolute;
+    text-align: center;
+    width:13%;
+    height: 40px;
+    bottom:90%;
+    left:1px;
+    background-color: pink;
+    border-radius: 5px;
+}
